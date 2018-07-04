@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+hr {
+width: 800px;
+border-color: #FF8E01;
+}
+
+h1 {
+  color: #2760B1;
+  font-family: 'Raleway', sans-serif;
+  font-size: 44px;
+ 
+}
+
+p {
+font-family: 'Open Sans', sans-serif;
+}
+
+h1 ,p {
+    letter-spacing: 1px;
+}
+
+a:link, a:visited  {
+    color: #2760B1;
+    text-decoration: none;
+    font-variant: small-caps;
+}
+a:hover , a:active {
+    text-decoration: underline;
+    color: #FF8E01;
+}
+span {
+    font-variant: small-caps;
+}
